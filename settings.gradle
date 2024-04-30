@@ -1,0 +1,4 @@
+rootProject.name = 'quarkus-reproducer'
+include 'core'
+include 'quarkus'
+
